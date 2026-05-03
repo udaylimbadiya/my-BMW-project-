@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* =============================================
    BMW M4 Homepage – script.js (cleaned)
    ============================================= */
@@ -190,7 +190,7 @@ function exitDrive() {
   if (ended) ended.style.display = 'none';
 
   document.getElementById('hero').style.display = 'flex';
-=======
+
 /* =============================================
    BMW M4 Homepage – script.js (cleaned)
    ============================================= */
@@ -382,5 +382,5 @@ function exitDrive() {
   if (ended) ended.style.display = 'none';
 
   document.getElementById('hero').style.display = 'flex';
->>>>>>> 7ef5da0502a59296f2910a81b7b7ed66d348384a
+}
 }
